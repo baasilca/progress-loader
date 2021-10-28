@@ -11,7 +11,7 @@ npm install baasilca-react-native-progrss-loader --save
 ## Example
 contact 9846366876 (whatsapp) @baasilca(instagram)
 
- ![android](https://raw.githubusercontent.com/baasilca/progress-loader/master/assets/loader.jpeg)
+ ![android](https://raw.githubusercontent.com/baasilca/progress-loader/master/assets/loader.jpeg){:height="36px" width="36px"}
  
 ## Usage
 
