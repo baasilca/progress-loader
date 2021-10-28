@@ -1,6 +1,6 @@
 {
   "name": "baasilca-react-native-progress-loader",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "for more information baasilca(instagram)",
   "main": "App.js",
   "scripts": {
@@ -24,5 +24,13 @@
   ],
   "author": "baasilca",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baasilca/progress-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baasilca/progress-loader/issues"
+  },
+  "homepage": "https://github.com/baasilca/progress-loader#readme"
 }
